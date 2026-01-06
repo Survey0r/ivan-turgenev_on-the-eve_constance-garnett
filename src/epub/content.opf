@@ -32,46 +32,46 @@
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young Russian woman falls in love with a Bulgarian patriot on the eve of the Crimean War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Elena Nikolaevna Stahov is a young, passionate woman from a wealthy background. Two men pursue her—Andrei Petrovitch Bersenyev, a serious-minded student of philosophy, and Pavel Yakovlitch Shubin, a free-spirited sculptor. Soon, however, another young man enters her life: Dmitri Nikanorovitch Insarov, a Bulgarian patriot who yearns to free his people from the Ottoman Turks. As the storm clouds of the Crimean War gather, soon to burst, Elena Nikolaevna falls in love with Insarov, setting in motion a series of events that will change their lives forever.</p>
+			<p>Though <i>On the Eve</i> is <a href="https://standardebooks.org/ebooks/ivan-turgenev">Ivan Turgenev’s</a> third novel, he actually began working on it before he published his first novel, <i>Rudin</i>. The love story, which is the central focus of the plot, is based on the accounts of a Russian man who left to fight in the Crimean War, who had given Turgenev a notebook before he departed. While the title is correctly translated as “On the Eve,” the strength of the character Elena has inspired such interest that the first French translation was titled <i>Éléna</i>, and the German translation was titled <i>Helena</i>.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6902</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/novelsofivanoneve00turguoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/On_the_Eve</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-turgenev_on-the-eve_constance-garnett</meta>
 		<dc:creator id="author">Ivan Turgenev</dc:creator>
 		<meta property="file-as" refines="#author">Turgenev, Ivan</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ivan Sergeyevich Turgenev</meta>
+		<meta property="alternate-script" refines="#author">Иван Сергеевич Тургенев</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ivan_Turgenev</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79144981</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50015174</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
+		<meta property="file-as" refines="#artist">Courbet, Gustave </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057228</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eric Eldred</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Eldred, Eric</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Devin O’Bannon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">O’Bannon, Devin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
